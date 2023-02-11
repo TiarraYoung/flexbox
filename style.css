@@ -1,0 +1,33 @@
+.navitems{
+    display: flex;
+    justify-content: center;
+    margin: 40px;
+}
+.linkcontainer{
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+}
+.nav3{
+    display: flex;
+    justify-content: center;
+    margin: 40px;
+}
+.button{
+    background-color: yellow;
+    display: flex;
+    cursor: pointer;
+    margin: auto;
+}
+#AGENCY{
+    font-size: 100px; 
+    display: flex;
+    justify-content: center;
+}
+.nav5{
+    display: flex;
+    justify-content: center;
+}
+body{
+    background-color: lightgray;
+}
